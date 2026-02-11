@@ -1,0 +1,8 @@
+
+{
+  "name": "FluentCheck",
+  "description": "An English fluency and speaking analysis tool that provides real-time feedback on pronunciation, vocabulary, and grammar using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
